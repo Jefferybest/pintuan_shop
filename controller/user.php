@@ -4,6 +4,7 @@
 */
 class User extends baseControl
 {
+	//修改这里
 	
 	public function register()
 	{
